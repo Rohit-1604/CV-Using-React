@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/CV-Using-React/static/css/main.2964762e.chunk.css",
-    "main.js": "/CV-Using-React/static/js/main.504f3f2e.chunk.js",
-    "main.js.map": "/CV-Using-React/static/js/main.504f3f2e.chunk.js.map",
-    "runtime-main.js": "/CV-Using-React/static/js/runtime-main.7219806a.js",
-    "runtime-main.js.map": "/CV-Using-React/static/js/runtime-main.7219806a.js.map",
-    "static/css/2.d88a60dc.chunk.css": "/CV-Using-React/static/css/2.d88a60dc.chunk.css",
-    "static/js/2.3a3c05eb.chunk.js": "/CV-Using-React/static/js/2.3a3c05eb.chunk.js",
-    "static/js/2.3a3c05eb.chunk.js.map": "/CV-Using-React/static/js/2.3a3c05eb.chunk.js.map",
+    "main.js": "/CV-Using-React/static/js/main.29b7b1c0.chunk.js",
+    "main.js.map": "/CV-Using-React/static/js/main.29b7b1c0.chunk.js.map",
+    "runtime-main.js": "/CV-Using-React/static/js/runtime-main.7f527182.js",
+    "runtime-main.js.map": "/CV-Using-React/static/js/runtime-main.7f527182.js.map",
+    "static/css/2.40714536.chunk.css": "/CV-Using-React/static/css/2.40714536.chunk.css",
+    "static/js/2.9fbce963.chunk.js": "/CV-Using-React/static/js/2.9fbce963.chunk.js",
+    "static/js/2.9fbce963.chunk.js.map": "/CV-Using-React/static/js/2.9fbce963.chunk.js.map",
     "index.html": "/CV-Using-React/index.html",
-    "precache-manifest.1205622bb6df14f84700f2816266a4c3.js": "/CV-Using-React/precache-manifest.1205622bb6df14f84700f2816266a4c3.js",
+    "precache-manifest.1616c52809ab0bea39adacfb76f3ad22.js": "/CV-Using-React/precache-manifest.1616c52809ab0bea39adacfb76f3ad22.js",
     "service-worker.js": "/CV-Using-React/service-worker.js",
-    "static/css/2.d88a60dc.chunk.css.map": "/CV-Using-React/static/css/2.d88a60dc.chunk.css.map",
+    "static/css/2.40714536.chunk.css.map": "/CV-Using-React/static/css/2.40714536.chunk.css.map",
     "static/css/main.2964762e.chunk.css.map": "/CV-Using-React/static/css/main.2964762e.chunk.css.map",
-    "static/js/2.3a3c05eb.chunk.js.LICENSE.txt": "/CV-Using-React/static/js/2.3a3c05eb.chunk.js.LICENSE.txt",
+    "static/js/2.9fbce963.chunk.js.LICENSE.txt": "/CV-Using-React/static/js/2.9fbce963.chunk.js.LICENSE.txt",
     "static/media/pic1.jpeg": "/CV-Using-React/static/media/pic1.47313612.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7219806a.js",
-    "static/css/2.d88a60dc.chunk.css",
-    "static/js/2.3a3c05eb.chunk.js",
+    "static/js/runtime-main.7f527182.js",
+    "static/css/2.40714536.chunk.css",
+    "static/js/2.9fbce963.chunk.js",
     "static/css/main.2964762e.chunk.css",
-    "static/js/main.504f3f2e.chunk.js"
+    "static/js/main.29b7b1c0.chunk.js"
   ]
 }
